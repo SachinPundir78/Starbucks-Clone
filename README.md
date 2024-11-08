@@ -37,3 +37,44 @@ Welcome to the **Starbucks Clone** project! This project is a responsive front-e
 1. **Clone the repository**  
    ```bash
    git clone (https://github.com/SachinPundir78/Starbucks-Clone.git)
+Navigate to the project directory
+
+bash
+Copy code
+cd starbucks-clone
+Open index.html
+Simply open index.html in your preferred browser.
+
+Run a live server (optional)
+
+To view changes live, use a live server plugin or run:
+bash
+Copy code
+npm install -g live-server
+live-server
+📂 Folder Structure
+plaintext
+Copy code
+├── index.html                # Home page of the clone
+├── menu.html
+├── rewards.html              # Rewards page
+├── style/
+│   ├── index.css             # Main CSS for global styling
+    ├── menu.css 
+│   ├── rewards.css           # CSS for the rewards page
+├── images/                   # Images used in the project
+└── app.js                    # JavaScript for interactivity
+└── vercel.json
+🌐 Pages
+Home Page 🏠: Replicates the main Starbucks home page.
+Rewards Page 🎁: Includes a carousel of Starbucks products and a detailed layout for rewards.
+🎉 Features to Add
+Store Locator 🗺️: An interactive map to locate stores globally.
+Dynamic Content ⚡: Additional JavaScript features to load items dynamically.
+Backend Integration 🌐: Possible backend (Node.js/Express) to make it functional.
+🙏 Acknowledgments
+Starbucks: For the inspiration and design elements.
+Google Fonts: For beautiful typography.
+Open Source Community: For resources and tutorials.
+⭐ Star this repo if you liked it! 😊
+javascript
