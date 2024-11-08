@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/pages/index.html"
+            "destination": "/Starbucks Landing Page/pages/index.html"
         }
     ]
 }
