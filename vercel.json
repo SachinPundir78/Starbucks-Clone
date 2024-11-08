@@ -1,16 +1,10 @@
 {
     "rewrites": [
         {
-            "source": "/menu",
-            "destination": "/pages/menu.html"
-        },
-        {
-            "source": "/rewards",
-            "destination": "/pages/rewards.html"
-        },
-        {
             "source": "/(.*)",
             "destination": "/pages/index.html"
+            "destination": "/pages/menu.html"
+            "destination": "/pages/rewards.html"
         }
     ]
 }
