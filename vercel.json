@@ -6,11 +6,11 @@
             "destination": "/pages/index.html"
         },
           {
-            "source": "/menu",
+             "source": "/(.*)",
             "destination": "/pages/menu.html"
         },
         {
-            "source": "/rewards",
+             "source": "/(.*)",
             "destination": "/pages/rewards.html"
         }
     ]
